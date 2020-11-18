@@ -1,6 +1,9 @@
 github:
   is_project_page: false
 
+plugins:
+  - jekyll-include-cache
+
 remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 minimal_mistakes_skin: "contrast"
 
