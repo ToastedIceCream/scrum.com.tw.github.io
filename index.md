@@ -1,3 +1,7 @@
+---
+layout: single
+---
+.
 # Scrum 的歷史：什麼是 Scrum，什麼不是Scrum!?
 
 像是玩籃球有籃球規則，【Scrum】也有自己的定義！
