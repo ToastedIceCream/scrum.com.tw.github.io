@@ -1,12 +1,11 @@
 github:
   is_project_page: false
 
-plugins:
-  - jekyll-include-cache
-
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "contrast"
 
+plugins:
+  - jekyll-include-cache
 
 title: Scrum.COM.TW
 description: [就像是玩籃球🏀 有籃球規則，【Scrum】也有自己的定義！]
