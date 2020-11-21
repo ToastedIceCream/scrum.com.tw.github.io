@@ -1,5 +1,4 @@
 ---
-layout: callouts
 title: 什麼是 Scrum?
 ---
 
