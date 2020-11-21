@@ -4,7 +4,7 @@ github:
 plugins:
   - jekyll-include-cache
 
-theme: minimal-mistakes-jekyll
+theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "contrast"
 
 
