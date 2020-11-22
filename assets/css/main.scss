@@ -6,3 +6,43 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+body {
+  font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;
+}
+
+.callout {
+  list-style-type: none;
+
+  li {
+    margin: 10px;
+    width: 100%;
+    float:left;
+
+    color: white;
+    text-align: center;
+    padding: 30px;
+    background: #353535;
+    min-height: 100%;
+    -webkit-box-shadow: 4px 4px 12px -1px rgba(0, 0, 0, 0.45);
+    -moz-box-shadow: 4px 4px 12px -1px rgba(0, 0, 0, 0.45);
+    box-shadow: 4px 4px 12px -1px rgba(0, 0, 0, 0.45);
+    border-radius: 5px;
+
+    a {
+      color: #fff;
+      background-color: #f0ad4e;
+      border-color: #eea236;
+
+      display: inline-block;
+      padding: 6px 12px;
+      margin: 5px 0;
+      line-height: 1.5rem;
+      text-align: center;
+      white-space: nowrap;
+      vertical-align: middle;
+      cursor: pointer;
+      border-radius: 0.5rem;
+    }
+  }
+}
